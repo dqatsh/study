@@ -1,1 +1,1 @@
-# SVD实现图片压缩 svd.ipynb
+# SVD实现图像压缩 svd.ipynb
